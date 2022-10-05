@@ -5,7 +5,9 @@ São dois tipos diferentes de turmas, turmas que tiveram 4 atividades avaliativa
 turmas que tiveram 5 atividades avaliativas durante o trimestre. 
 
 
+
 No caso das turmas com 4 atividades avaliativas as notas são divididas da seguinte forma:
+
 
 Nota 1 - Peso 2;
 
